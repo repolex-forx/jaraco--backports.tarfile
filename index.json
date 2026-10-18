@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "backports.tarfile",
+  "versions": [
+    {
+      "commit": "6ff4300ff5eda255c6aee636f1800dffde9ad066",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:43:34.769888+00:00"
+    }
+  ]
+}
